@@ -7,6 +7,7 @@ Raw Hash Cracker Tool by HackersBrain
 
 ## Requirements
 **[Python3](https://www.python.org/downloads/)**
+
 **[Colorama](https://pypi.org/project/colorama/)**
 
 ## Installation
