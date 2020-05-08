@@ -13,11 +13,11 @@ Raw Hash Cracker Tool by HackersBrain
 ## Installation
 Clone or Download this Repository
 ```
-git clone https://github.com/hackers-brain/md5-hash-cracker.git
+git clone https://github.com/hackers-brain/raw-hash-cracker.git
 ```
 Change Directory
 ```
-cd md5-hash-cracker
+cd raw-hash-cracker
 ```
 Run the setup.py file
 ```
