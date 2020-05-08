@@ -6,7 +6,8 @@ Raw Hash Cracker Tool by HackersBrain
 **[MD5 Hash Cracker V1.0](https://github.com/hackers-brain/md5-hash-cracker.git)**
 
 ## Requirements
-**Python3**
+**[Python3](https://www.python.org/downloads/)**
+**[Colorama](https://pypi.org/project/colorama/)**
 
 ## Installation
 Clone or Download this Repository
