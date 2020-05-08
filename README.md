@@ -1,7 +1,7 @@
 # Raw Hash Cracker
 Raw Hash Cracker Tool by HackersBrain
 ## Version
-**Hash Cracker V2.0**
+**Raw Hash Cracker V2.0**
 ## Older Version
 **[MD5 Hash Cracker V1.0](https://github.com/hackers-brain/md5-hash-cracker.git)**
 
