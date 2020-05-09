@@ -1,5 +1,6 @@
 import os
 try:
+    os.system("python3 install python3-colorama")
     os.system("pip3 install colorama")
     os.system("clear")
     print(" Setup Installed Successfully !!!")
